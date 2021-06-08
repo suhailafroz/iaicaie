@@ -1,0 +1,50 @@
+.collegeName {
+    width: 90%;
+    height: auto;
+}
+
+.color {
+    font-size: 2.6rem;
+}
+
+.buttons {
+    width: 100%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons>button {
+    width: 100px;
+}
+
+.overview {
+    font-size: 17px
+}
+
+.bg-color3 {
+    font-size: 1.2rem;
+}
+
+.bg-color2 {
+    font-size: 2rem;
+}
+
+.department {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.blue {
+    letter-spacing: 2px;
+}
+
+.footer>div:nth-child(2) {
+    width: 98%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.committee {
+    overflow: scroll;
+}
